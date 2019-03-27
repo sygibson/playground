@@ -3,9 +3,9 @@
 .. DigitalRebar Provision documentation under Digital Rebar master license
 ..
 
-.. image:: drp-content-cloudia-loremipsum.png
+.. image:: images/drp-content-cloudia-loremipsum.png
 
-.. image:: drp-content-cloudia-text-icon.png
+.. image:: images/drp-content-cloudia-text-icon.png
 
 Digital Rebar Provision Content
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
