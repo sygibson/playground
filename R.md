@@ -31,3 +31,4 @@ content/               main "drp-community-content" pack
 krib/                  Kubernetes Rebar Integrated Bootstrap content pack
 rose/                  Rebar OpenStack Environment - single node master and cluster
 sledgehammer-builder/  contains the Sledgehammer Builder content
+=====================  ============================================================
