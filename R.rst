@@ -3,12 +3,12 @@
 .. DigitalRebar Provision documentation under Digital Rebar master license
 ..
 
-.. |loremipsum| image:: images/drp-content-cloudia-loremipsum.png
+.. image:: images/drp-content-cloudia-loremipsum.png
 
-.. |loremipsum| image:: images/drp-content-cloudia-loremipsum.png
+.. image:: images/drp-content-cloudia-loremipsum.png
   :width: 200
 
-.. |texticon| image:: images/drp-content-cloudia-text-icon.png
+.. image:: images/drp-content-cloudia-text-icon.png
 
 Digital Rebar Provision Content
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
